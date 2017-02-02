@@ -1,0 +1,2 @@
+# yzpLibrary
+my javascript library
